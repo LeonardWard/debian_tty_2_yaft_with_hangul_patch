@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# 파일명 : dt2ywhp.sh
+#
 set -eu
 
 # UTF-8 로케일 보장 (yaft는 wcwidth 계산을 위해 UTF-8 환경이 필요)
